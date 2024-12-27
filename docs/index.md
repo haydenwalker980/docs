@@ -1,6 +1,7 @@
-# Welcome
+# Introduction
+Welcome to the Whitehill Group support site.
 
-:::caution
+:::warning
 
 We're still working on this documentation, some content may be missing or incomplete and all content is subject to change.
 
@@ -12,10 +13,9 @@ We welcome you to contribute to our documentation. Please visit our [repository]
 
 :::
 
-Need to get started? Visit our [Welcome Page](https://www.google.co.uk/)
+You can get started by jumping straight into product documentation using the tabs above, but we would recommend reading [our FAQs](/faq).
 
-Or 
-
-Visit [DWProx Support](https://www.google.co.uk/)
-
-Visit [JSM Support](https://www.google.co.uk/)
+### Commonly visited pages
+- [SCO v3 Installation Guide](/jsm/sco-v3/installation)
+- [SCO v3 Update Guide](/jsm/sco-v3/updating)
+- [Scan and Shop Installation Guide](/jsm/sco-v3/scanandshop)
